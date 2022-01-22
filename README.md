@@ -1,5 +1,5 @@
 # MQTT-Protocol
-Public / Subscribe archetype implementation using https://mosquitto.org/ and python.
+Publish / Subscribe archetype implementation using https://mosquitto.org/ and python.
 
 Publisher web scrapping data from [https://news.ycombinator.com/](https://news.ycombinator.com/) and publish to two different topics:
 - upvotes_up100 news with upvotes over 100
